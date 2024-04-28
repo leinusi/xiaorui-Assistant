@@ -13,18 +13,18 @@ Xiaorui-Assistant is a streaming large-scale model assistant web app developed u
 ## Installation and Deployment
 
 1. Clone the project code to your local machine:
-'''git clone https://github.com/yourusername/xiaorui-assistant.git'''
+```git clone https://github.com/yourusername/xiaorui-assistant.git```
 2. Navigate to the project directory:
-'''cd xiaorui-assistant'''
+```cd xiaorui-assistant```
 3. Create and activate a virtual environment (optional but recommended):
-'''python -m venv venv'''
-'''source venv/bin/activate'''
+```python -m venv venv```
+```source venv/bin/activate```
 4. Install project dependencies:
-'''pip install -r requirements.txt'''
+```pip install -r requirements.txt```
 5. Run database migrations:
-'''python manage.py migrate'''
+```python manage.py migrate```
 6. Start the Django development server:
-'''python manage.py runserver'''
+```python manage.py runserver```
 7. Access the Xiaorui-Assistant application in your web browser at `http://localhost:6006`.
 
 ## Configuration
