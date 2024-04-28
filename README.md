@@ -42,11 +42,5 @@ Before submitting a pull request, ensure that your code adheres to the project's
 
 The Xiaorui-Assistant project is released under the [MIT License](LICENSE).
 
-## Contact Information
-
-If you have any questions or suggestions, please contact the project maintainer:
-
-- Email: youremail@example.com
-- GitHub: [yourusername](https://github.com/yourusername)
 
 Thank you for your interest and support for the Xiaorui-Assistant project!
